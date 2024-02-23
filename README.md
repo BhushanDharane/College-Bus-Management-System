@@ -1,2 +1,5 @@
 # College-Bus-Management-System
-It is the Web application project Which is include Front end as well as Backend .Front end are used Html,CSS, and Backend are used .Net . In this application is to provide exact location of the student’s respective buses in Google Maps besides providing information like bus details, driver details, stops, contact number, routes.
+• Improved management of college Bus Facilities by automating Streamling various process through this web application.
+• Provided to student , Driver with a userfriendly platform to conveniently select and provided different features like daily
+presenty , driver to show daily present Student etc.
+• Empowered administrator with ability to verify bus details , add bus , driver and commnet show to student.
